@@ -1,1 +1,1 @@
-![JavaScript DataType](images/ChatGPT%20Image%20Jun%205,%202025,%2008_27_23%20PM.png)
+![JavaScript DataType](./Images/ChatGPT%20Image%20Jun%205,%202025,%2008_27_23%20PM.png)
